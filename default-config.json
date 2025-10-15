@@ -2,7 +2,7 @@
   "public": {
     "default": {
       "aem" : {
-        "author": "https://author-p130360-e1272151.adobeaemcloud.com",
+        "author": "https://content.da.live/{org}/{site}/",
         "publish": "https://publish-p130360-e1272151.adobeaemcloud.com"
       },
       "commerce-core-endpoint": "https://www.aemshop.net/graphql",
