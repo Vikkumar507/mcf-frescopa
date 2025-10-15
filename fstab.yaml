@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: "https://author-p130360-e1272151.adobeaemcloud.com/bin/franklin.delivery/vikkumar507/mcf-frescopa/main"
+    url: "https://drive.google.com/drive/folders/1NFzz7jen8fdPRtR0mIyX62x_OBryaA-1?usp=drive_link"
     type: "markup"
     suffix: ".html"
 folders:
